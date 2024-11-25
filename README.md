@@ -1,6 +1,6 @@
 # Dynamic Load Balancer for Flask Microservices
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![Flask](https://img.shields.io/badge/flask-2.0-green) ![License]
+![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![Flask](https://img.shields.io/badge/flask-2.0-green)
 
 ---
 
